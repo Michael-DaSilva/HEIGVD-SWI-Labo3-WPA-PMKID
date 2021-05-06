@@ -61,7 +61,21 @@ Un fork du repo original . Puis, un Pull Request contenant **vos noms** et :
 
 - Script ```pmkid_attack.py``` **abondamment commenté/documenté** + fichier wordlist
    - Capture d’écran de votre script en action
+
+![](img/script.PNG)
+
 - Captures d'écran de votre exercice 3
+
+   **Without wordlist**
+
+![](img/hcxpcaptool.PNG)
+
+![](img/hashcat_nowordlist.PNG)
+
+​	**With wordlist**
+
+![](img/hashcat_wordlist.PNG)
+
 -	Envoyer le hash du commit et votre username GitHub et **les noms des participants** par email au professeur et à l'assistant
 
 
